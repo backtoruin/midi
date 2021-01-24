@@ -27,7 +27,7 @@ Below spectrograms present the quality of fundamental frequency tracking execute
 
 |![black_dog_spec_fft_afft_hps](images/black_dog/fft_afft_hps2/spec1.png)|
 |:--:|
-|*Black Dog - FFTxAFFTxHPS|
+|*Black Dog - FFTxAFFTxHPS*|
 
 ## Sweet Child O' Mine
 
@@ -35,10 +35,10 @@ Below spectrograms present the quality of fundamental frequency tracking execute
 
 |![sweet_eac](images/sweet/eac/spec1.png)|
 |:--:|
-|*Sweet Child O'Mine - EAC|
+|*Sweet Child O'Mine - EAC*|
 
 ### FFTxAFFTxHPS
 
 |![sweet_fft_afft_hps](images/sweet/fft_afft_hps2/spec1.png)|
 |:--:|
-|*Sweet Child O'Mine - FFTxAFFTxHPS|
+|*Sweet Child O'Mine - FFTxAFFTxHPS*|
